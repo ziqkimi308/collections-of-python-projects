@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  Empire's Best Movies Scraper
-* Description:   This Python script scrapes the top movie titles from Empire Online's "Best Movies" list and saves them to a text file.
-* Author:        ziqkimi308
-* Created:       2024-12-27
-* Updated:       2024-12-27
-* Version:       1.0
-********************************************************************************
-"""
-
 # Import 
 import requests
 from bs4 import BeautifulSoup
