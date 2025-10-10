@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  Spotify Playlist from Billboard's 100 Top Songs
-* Description:   This project automates the creation of a Spotify playlist based on the Billboard Hot 100 chart for a user-specified date. By scraping the Billboard website and using the Spotify API, it compiles the chart-topping songs into a private playlist on the user's Spotify account.
-* Author:        ziqkimi308
-* Created:       2024-12-27
-* Updated:       2024-12-27
-* Version:       1.0
-********************************************************************************
-"""
-
 #Import
 import requests
 from bs4 import BeautifulSoup
