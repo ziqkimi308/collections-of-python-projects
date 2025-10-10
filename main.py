@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  US State Guess Game
-* Description:   This project is a game to guess the name of states in United States
-* Author:        ziqkimi308
-* Created:       2024-12-03
-* Updated:       2024-12-03
-* Version:       1.0
-********************************************************************************
-"""
-
 # Import
 import turtle
 import pandas
