@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  Snake Game
-* Description:   This is a classic snake game built with Python's turtle module.
-* Author:        ziqkimi308
-* Created:       2024-12-05
-* Updated:       2024-12-05
-* Version:       1.0
-********************************************************************************
-"""
-
 # Import
 from turtle import Screen
 import time
