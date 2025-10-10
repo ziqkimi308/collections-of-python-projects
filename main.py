@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  The Pong Game
-* Description:   This project is a Python implementation of the classic Pong game using the turtle graphics library.
-* Author:        ziqkimi308
-* Created:       2024-12-05
-* Updated:       2024-12-05
-* Version:       1.0
-********************************************************************************
-"""
-
 # Import
 from turtle import Screen
 from paddle import Paddle
