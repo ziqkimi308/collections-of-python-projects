@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  Turtle Crossing Game
-* Description:   This is a fun and simple Turtle Crossing game created using Python's turtle module.
-* Author:        ziqkimi308
-* Created:       2024-12-05
-* Updated:       2024-12-05
-* Version:       1.0
-********************************************************************************
-"""
-
 import time
 from turtle import Screen
 from player import Player
