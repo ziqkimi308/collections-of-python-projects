@@ -1,14 +1,3 @@
-"""
-********************************************************************************
-* Project Name:  Cookie Clicker Automation
-* Description:   This project automates the popular browser-based game Cookie Clicker using Selenium. 
-* Author:        ziqkimi308
-* Created:       2024-12-31
-* Updated:       2024-12-31
-* Version:       1.0
-********************************************************************************
-"""
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
