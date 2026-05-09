@@ -26,3 +26,22 @@ Since these are standalone projects, each folder contains its own self-contained
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ziqkimi308/collections-of-python-projects.git](https://github.com/ziqkimi308/collections-of-python-projects.git)
+   ```
+
+2. Navigate into the specific project folder you want to test.
+3. Run the main python file (usually `main.py`):
+```bash
+python main.py
+
+```
+
+
+
+## 🛠️ Technologies & Libraries Used
+
+* **Language:** Python 3
+* **Key Libraries:** `Turtle` (Graphics/Games), `BeautifulSoup` & `Selenium` (Web Scraping), `Flask` (Web Framework), `Tkinter` (GUI), `Requests` (APIs).
+
+---
+
+*Created for archival and learning purposes.*
